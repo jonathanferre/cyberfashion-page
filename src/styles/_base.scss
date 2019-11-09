@@ -1,0 +1,22 @@
+body {
+  font-family: "Montserrat-Regular", sans-serif;
+  color: #000;
+  text-align: center;
+}
+
+.btn-default {
+  &.circle {
+    border-radius: 1.45835em;
+    min-width: 8em;
+
+    &.white {
+      border: 2px solid #fff;
+      color: #fff;
+    }
+
+    &.black {
+      border: 2px solid #000;
+      color: #000;
+    }
+  }
+}
