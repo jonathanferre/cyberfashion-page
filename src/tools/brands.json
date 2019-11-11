@@ -1,0 +1,272 @@
+{
+    "admitone":
+    {
+        "nombre": "Admit One",
+        "descuento": "Hasta <span>40% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer,hombre, nino",
+        "descripcionCorta": "",
+        "descripcion": "Encontrá tu ropa deportiva favorita con descuentos | Hasta 40% OFF - Mujer - Hombre - Niños | 3 y 6 Cuotas sin interés con VISA y MASTER.",
+        "url": "https://www.admitone.com.ar/cyberfashion.html",
+        "tag": ["visa6"]
+    },
+    "ayres":
+    {
+        "nombre": "Ayres",
+        "descuento": "Hasta <span>50% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer, nino",
+        "descripcionCorta": "",
+        "descripcion": "#SentiteAyres. Primavera Verano 19/20. <br> Hasta 40% OFF en Temporada actual y Hasta 50% OFF en Otras Temporadas. <br> 3 y 6 cuotas sin interés con todos los bancos.",
+        "url": "https://www.ayres.com.ar/cyberfashion.html",
+        "tag": ["visa6"]
+    },
+    "babycottons":
+    {
+        "nombre": "babycottons",
+        "descuento": "Hasta <span>35% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,nino",
+        "descripcionCorta": "",
+        "descripcion": "babycottons presenta una nueva colección de verano inspirada en esos pequeños soñadores viajeros que imaginan el punto del universo para pasar, juntos, sus próximas vacaciones. Pensada y diseñada para bebes y niños, babycottons se introduce en un mundo más real e imaginario para acompañarlos en sus diferentes ocasiones de uso | <strong> 6 cuotas sin interés para compras superiores a $5000 </strong>",
+        "url": "https://www.babycottons.com.ar/cyberfashion.html",
+        "tag": ["visa3"]
+    },
+    "blaque":
+    {
+        "nombre": "blaquè",
+        "descuento": "Hasta <span>45% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "Hatsa 45% off en productos seleccionados",
+        "descripcion": "Common Sense - Spring Summer 20. ¡Regalá blaquè! <br> Hasta 45% OFF + 3 cuotas sin interés · Retiralo en Sucursal o Recibilo en tu casa.",
+        "url": "https://www.blaque.com.ar/cyberfashion.html",
+        "tag": ["visa3"]
+    },
+    "broer":
+    {
+        "nombre": "Broer",
+        "descuento": "<span>40% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,nino",
+        "descripcionCorta": "40% off en todo el stio",
+        "descripcion": "Broer es una propuesta clásica y moderna para bebés y niños de 0 a 6 años. Es una marca que representa una extensión del cuidado, del cariño y de la suavidad que las familias buscan para sus hijos desde los primeros días de nacidos y durante la infancia. Descubrinos en el CyberFashion! ",
+        "url": "https://www.grisino.com/broer.html",
+        "tag": ["clubnacion","visa12"]
+    },
+    "carocuore":
+    {
+        "nombre": "Caro Cuore",
+        "descuento": "<span>35% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "Hasta 35% off en productos seleccionados",
+        "descripcion": "CaroCuore es sinónimo de sensualidad y confort. Es una marca y una actitud que acompaña a las tendencias internacionales de la moda con la mejor calidad. Los diseños de CaroCuore están destinados a todas aquellas mujeres que buscan sentirse únicas y especiales siempre. A las mujeres cambiantes, versátiles, apasionadas. A todas. La marca piensa en cada una de ellas y les ofrece una variedad de prendas para que puedan sentirse seguras de sí mismas.",
+        "url": "https://www.carocuore.com/cyberfashion.html",
+        "tag": ["visa6"]
+    },
+    "claraibarguren":
+    {
+        "nombre": "Clara Ibarguren",
+        "descuento": "Hasta <span>20% OFF</span> en Primavera / Verano",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "",
+        "descripcion": "El mundo está cambiando. Vivimos en un momento de nuevas reglas y múltiples opciones. Y cada vez son más las cosas que nos identifican y que nos definen. Entonces ¿por qué elegir si podemos ser todas? Esta es nuestra propuesta, que puedas disfrutar de todo lo que amás, y todo al mismo tiempo.",
+        "url": "https://www.claraibarguren.com/cyber-fashion.html",
+        "tag": ["visa3"]
+    },
+    "complot":
+    {
+        "nombre": "Complot",
+        "descuento": "Hasta <span>60% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "",
+        "descripcion": "Spring Summer 2020 - Hasta 60% Off en productos seleccionados. Enterate antes que nadie las ofertas y descuentos que te esperan en COMPLOT este CyberFashion.",
+        "url": "https://www.complot.com.ar/eshop/prendas.html"
+    },
+    "cook":
+    {
+        "nombre": "John L. Cook",
+        "descuento": "Hasta <span>50% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer,hombre",
+        "descripcionCorta": "",
+        "descripcion": "John L. Cook | Unf*ck the world with ❤ <br> Introducing SS20 'Go into the world and do well. But more importantly, go into the world and do good'. <br /> 3 Y 6 cuotas s/interés | Superando $6000 12 cuotas s/interés",
+        "url": "https://shop.johnlcook.com.ar/cyberfashion.html",
+        "tag": ["visa12"]
+    },
+    "fila":
+    {
+        "nombre": "Fila",
+        "descuento": "Hasta <span>40% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer,hombre",
+        "descripcionCorta": "",
+        "descripcion": "Hasta 40% OFF + 3 cuotas sin interés. #CyberFashionFila Envíos gratis a partir de $3.500",
+        "url": "https://tienda.fila.com.ar/cyberfashion.html",
+        "tag": ["visa3"]
+    },
+    "grisino":
+    {
+        "nombre": "Grisino",
+        "descuento": "<span>40% OFF</span> en todo el sitio",
+        "categorias": "home,ficha,nino",
+        "descripcionCorta": "",
+        "descripcion": "Grisino cuenta con una línea de productos, que abarca desde bebés recién nacidos hasta niños de 12 años, de diseño original y reconocida calidad. Grisino propone una colección lúdica para que chicas y chicos se sientan felices y cómodos con lo que llevan puesto. Conocé más en CyberFashion!",
+        "url": "https://www.grisino.com/cyberfashion.html",
+        "tag": ["clubnacion","visa12"]
+    },
+    "kosiuko":
+    {
+        "nombre": "Kosiuko",
+        "descuento": "Hasta <span>40% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "",
+        "descripcion": "Kosiuko desde sus orígenes se distinguió  por crear diseños vanguardistas e innovadores. No dejes pasar esta oportunidad de conseguir hasta 40% OFF de descuento y 3 cuotas sin interés en productos seleccionados durante CyberFashion! Tendencia, tecnología, calidad y estilo en un sólo lugar!",
+        "url": "https://www.kosiuko.com/cyberfashion.html",
+        "tag": ["clubnacion","visa3"]
+    },
+    "levis":
+    {
+        "nombre": "Levi's",
+        "descuento": "Hasta <span>30% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer,hombre",
+        "descripcionCorta": "",
+        "descripcion": "SPRING SUMMER COLLECTION | Hasta 30% OFF | 3 cuotas sin interés con VISA | 3 y 6 Cuotas sin interés en productos nacionales.",
+        "url": "https://www.levi.com.ar/cyberfashion.html",
+        "tag": ["visa6"]
+    },
+    "martina":
+    {
+        "nombre": "Martina di Trento",
+        "descuento": "Hasta <span>50% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer,hombre",
+        "descripcionCorta": "",
+        "descripcion": "Comenzó CyberFashion en Martina Di Trento | Hasta 50% Off en tus ítems favoritos + 12 cuotas sin interés - Con tu compra superior a $3600 el envío es Gratis!",
+        "url": "https://www.martinaditrento.com/cyberfashion.html",
+        "tag": ["visa12"]
+    },
+    "mimo":
+    {
+        "nombre": "Mimo&Co",
+        "descuento": "Hasta <span>30% OFF</span> en todo el sitio",
+        "categorias": "home,ficha,nino",
+        "descripcionCorta": "",
+        "descripcion": "Mimo & Co, V20 Paraty Brasil, descubrí la campaña con espíritu explorador para niños de 0 a 14 años. <br /> Todos los días ahora 3 y 6 cuotas sin interés. Minimimo (0 a 18 meses) KIDS (1 a 4 años) JUNIOR (4 a 14 años) Calzados y Accesorios. Sigue sale en invierno. Envíos gratis con tu compra mayor a $ 3350",
+        "url": "https://tienda.mimo.com.ar/cyber-fashion.html",
+        "tag": ["visa6"]
+    },
+    "muaa":
+    {
+        "nombre": "Muaa",
+        "descuento": "Hasta <span>60% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "",
+        "descripcion": "HEY BABY! NEW IN SS20 | CyberFashion hasta 60% Off + 3 cuotas sin interés! > Retira gratis tu pedido en locales exclusivos",
+        "url": "https://www.muaa.com.ar/cyber-fashion.html",
+        "tag": ["visa3"]
+    },
+
+    "rapsodia":
+    {
+        "nombre": "Rapsodia",
+        "descuento": "Hasta <span>35% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "Hasta 35% off en productos seleccionados",
+        "descripcion": "RAPSODIA| WHEREVER SHE GOES, NATURE GROWS <br> Nuestra nueva colección esta Inspirada en la mujer como el hilo conductor entre la ciudad y la naturaleza. La naturaleza es su estado mental, vive en su interior. Las flores se abren a su paso, los árboles se vuelven más altos y desde las ramas ella es libre como un pájaro cuando abre sus alas. ",
+        "url": "https://www.rapsodia.com.ar/rapsodia/woman.html",
+        "tag": ["visa12"]
+    },
+    "rapsodiagirl":
+    {
+        "nombre": "Rapsodia Girl",
+        "descuento": "Hasta <span>35% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,nino",
+        "descripcion": "Rapsodia Girls presenta su colección de verano inspirada en las niñas curiosas, libres, alegres, que aman la música, los juegos al aire libre, los animales y la naturaleza. Para esta temporada, la propuesta fue pensada y creada según dos targets de edad: las MINIS (de 4 a 8 años) y las TWEENS de (10 a 14 años). Cada grupo, tendrá su propio espacio dentro del local con los diseños propios exhibidos según su rango etario.",
+        "url": "https://www.rapsodia.com.ar/cyberfashion/girls.html",
+        "tag": ["visa12"]
+    },
+    "sweet":
+    {
+        "nombre": "Sweet",
+        "descuento": "Hasta <span>40% OFF</span> en todo el sitio",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "",
+        "descripcion": "Nueva colección verano 20. <br> Hasta 40% OFF en todo el sitio + 3 y 6 cuotas sin interés. <br> Envíos gratis desde $2.800. <br> Retirá tus pedidos en locales seleccionados.",
+        "url": "https://www.sweet.com.ar/cyberfashion.html",
+        "tag": ["clubnacion","visa6"]
+    },
+    "tucci":
+    {
+        "nombre": "Tucci",
+        "descuento": "<span>20% OFF</span> en todo el sitio",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "",
+        "descripcion": "Nueva colección SS20. <br> 20% OFF en todo el sitio + 3 cuotas sin interés. <br> Retirá tus pedidos en locales seleccionados",
+        "url": "https://www.tucciweb.com/shoponline.html",
+        "tag": ["visa3"]
+    },
+    "uma":
+    {
+        "nombre": "Uma",
+        "descuento": "Hasta <span>40% OFF</span> en todo el sitio",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "Hasta 40% off en todo el sitio",
+        "descripcion": "Nueva Colección PRIMPEMPS ÉTÉ 20  <br /> Hasta 25% Off y Hasta 40% Off en Otras Temporadas <br /> 3 y 6 cuotas sin interés con MASTER y VISA",
+        "url": "https://www.uma.com.ar/e-shop.html",
+        "tag": ["visa6"]
+    },
+    "umbro":
+
+
+    {
+        "nombre": "Umbro",
+        "descuento": "Hasta <span>40% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,hombre",
+        "descripcionCorta": "",
+        "descripcion": "¡Dejalo todo en la cancha! Hasta 40% OFF + 3 cuotas sin interés. #CyberFashionUmbro Envíos gratis a partir de $3.500",
+        "url": "https://tienda.umbro.com.ar/cyberfashion.html",
+        "tag": ["visa3"]
+    },
+    "vitamina":
+    {
+        "nombre": "Vitamina",
+        "descuento": "Hasta <span>40% OFF</span> en todo el sitio",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "",
+        "descripcion": "SPRING SUMMER COLLECTION <br /> Hasta 20% Off y Hasta 40% Off en Otras Temporadas. <br /> 3 y 6 cuotas sin interés con MASTER y VISA",
+        "url": "https://www.vitamina.com.ar/e-store.html",
+        "tag": ["visa6"]
+    },
+    "wanama":
+    {
+        "nombre": "Wanama",
+        "descuento": "Hasta <span>50% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,mujer",
+        "descripcionCorta": "",
+        "descripcion": "WNM | We Need Moments <br /> Mujeres de espíritu libre , auténticas y audaces. Mujeres que escriben su historia y la viven a su manera. <br/>Conocé nuestras ofertas Spring Summer 2020 de Cyberfashion. Hasta 3 y 6 cuotas sin interés. Con la compra superior a $6000 obtén 12 cuotas sin interés.",
+        "url": "https://www.wanama.com/cyberfashion.html",
+        "tag": ["visa12"]
+    },
+    "wanamaboys":
+    {
+        "nombre": "Wanama Boys and Girls",
+        "descuento": "Hasta <span>50% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,nino",
+        "descripcionCorta": "",
+        "descripcion": "WNM ByG | Moments under the sun | <br> Crear momentos inolvidables, alentando a nuevas aventuras y fomentando su curiosidad. Salgamos a explorar! Hasta 50% Off en productos seleccionados. 3, 6 y 12 cuotas a partir de $6000 sin interés.",
+        "url": "https://www.wanama.com/wanama/boys-girls/cyberfashion-boys-girls.html",
+        "tag": ["visa12"]
+    },
+    "bensimon":
+    {
+        "nombre": "Bensimon",
+        "descuento": "Hasta <span>35% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,hombre",
+        "descripcionCorta": "",
+        "descripcion": "SPRING SUMMER 2020 #YouAreYou. Hasta 35% OFF en Productos Seleccionados <br> ▪ 3 Cuotas sin interés para productos nacionales ▪ Pick up in store ▪",
+        "url": "https://www.bensimon.com.ar/cyberfashion.html",
+        "tag":["visa3"] 
+    },
+    "herencia":{
+        "nombre": "Herencia",
+        "descuento": "Hasta <span>40% OFF</span> en productos seleccionados",
+        "categorias": "home,ficha,hombre",
+        "descripcionCorta": "",
+        "descripcion": "Herencia Custom Garage nace de la pasión por las motos y el estilo de vida rider. Ofrece todo lo necesario para completar el look que los apasionados por las motos necesitan. No dejes pasar la oportunidad de tener hasta 40% OFF y 3 cuotas sin interés en productos seleccionados durante CyberFashion!",
+        "url": "https://www.herenciacustomgarage.com.ar/herencia-e-shop/cyberfashion.html",
+        "tag": ["clubnacion","visa3"]
+    }
+}
